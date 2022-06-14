@@ -11,7 +11,7 @@
   <nav class="sidebar-nav">
     
     <!-- Home -->
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '' | absolute_url }}">Home</a>
 
 
     <!-- static ====================================== -->
@@ -44,7 +44,8 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved. <br>
+      This page is based on Jekyll theme <a href="https://github.com/poole/lanyon" target="_blank">lanyon</a> made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
     </p>
   </div>
 </div>

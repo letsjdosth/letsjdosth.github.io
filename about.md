@@ -3,27 +3,41 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![alt text](https://github.com/letsjdosth/letsjdosth.github.io/blob/main/20210720_043705853_iOS.jpg?raw=true)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+I am a Ph.D. student in the <a href="https://engineering.ucsc.edu/departments/statistics">Department of Statistics</a>
+at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- Email: schoi90 (at) ucsc (dot) edu
+- Github: <a href="https://github.com/letsjdosth">https://github.com/letsjdosth</a>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Interests
 
-## Setup
+- Complex, dependent data analysis
+- Spatio-temporal data analysis
+- Bayesian Modelling
 
-Some fun facts about the setup of this project include:
+## Education
+- (Current) in Ph.D program , Sep 2021 - 
+  - University of California, Santa Cruz.
+- M.A., Applied Statistics, Mar. 2019 - Feb. 2021.
+  - Yonsei University, Seoul, Rep. of Korea.
+- B.A., Economics, Applied Statistics(double major), Mar. 2009 - Feb. 2016.
+  - Yonsei University, Seoul, Rep. of Korea.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+## Teaching
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+*At University of California, Santa Cruz,*
 
-Thanks for reading!
+- Teaching Assistant
+  - STAT7 Statistical Methods for the Biological, Environmental, and Health Sciences (Fall 2021, Winter 2021)
+
+*At Yonsei University,*
+
+- Teaching Assistant
+  - STA2105 Statistical Methods (Fall 2019, Spring 2020, Fall 2020)
+  - STA3115 Explanatory Data Analysis (Spring 2019)
+  - YCS1005 ICT Industry Linked Project (Spring 2020)
+
+*(Updated: 06/14/2022)*
