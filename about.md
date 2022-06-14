@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-<!-- ![pic](https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/20210720_043705853_iOS.jpg?raw=true) -->
-<img src="https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/20210720_043705853_iOS.jpg?raw=true", height="200" />
+![pic](https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/about_pic.jpg?raw=true)
+
 
 I am a Ph.D. student in the <a href="https://engineering.ucsc.edu/departments/statistics">Department of Statistics</a>
 at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.

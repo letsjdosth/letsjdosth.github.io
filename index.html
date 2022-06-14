@@ -3,25 +3,33 @@ layout: default
 title: Home
 ---
 
-I am a Ph.D. student in the <a href="https://engineering.ucsc.edu/departments/statistics">Department of Statistics</a>
-at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
+<H1>Quick Link</H1>
+<ul>
+  <li><a href="https://letsjdosth.github.io/about/">About</a> </li>
+  <li><a href="https://github.com/letsjdosth">Github</a></li>
+</ul>
 
-<!-- 
+
+<H1>
+  Recent Posts
+</H1>
+
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> 
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -37,5 +45,4 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
-  {% endif %} -->
-
+  {% endif %}
