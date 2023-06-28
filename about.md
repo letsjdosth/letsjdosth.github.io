@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![pic](https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/about_pic.jpg?raw=true)
+<img src="https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/about_pic2.JPG?raw=true" alt="about_pic" height="500">
 
 
 I am a Ph.D. student in the <a href="https://engineering.ucsc.edu/departments/statistics">Department of Statistics</a>
@@ -12,14 +12,15 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
 - Email: schoi90 (at) ucsc (dot) edu
 - Github: <a href="https://github.com/letsjdosth">https://github.com/letsjdosth</a>
 
-## Interests
+## Research Interests
 
-- Complex, dependent data analysis
-- Spatio-temporal data analysis
-- Bayesian Modelling
+- Temporal data analysis
+- Dependent data modeling
+- Bayesian models
 
 ## Education
-- (Current) in Ph.D program , Sep 2021 - 
+
+- (Current) in Ph.D program, Statistics, since Sep. 2021.
   - University of California, Santa Cruz.
 - M.A., Applied Statistics, Mar. 2019 - Feb. 2021.
   - Yonsei University, Seoul, Rep. of Korea.
@@ -31,13 +32,15 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
 *At University of California, Santa Cruz,*
 
 - Teaching Assistant
-  - STAT7 Statistical Methods for the Biological, Environmental, and Health Sciences (Fall 2021, Winter 2021)
+  - STAT131 Introduction to Probability Theory (Summer 2022(S2), Winter 2023, Summer 2023(S1,S2))
+  - STAT7 Statistical Methods for the Biological, Environmental, and Health Sciences (Fall 2021, Winter 2022, Fall 2022)
+  - STAT5 Statistics (Spring 2023)
 
 *At Yonsei University,*
 
 - Teaching Assistant
   - STA2105 Statistical Methods (Fall 2019, Spring 2020, Fall 2020)
-  - STA3115 Explanatory Data Analysis (Spring 2019)
+  - STA3115 Exploratory Data Analysis (Spring 2019)
   - YCS1005 ICT Industry Linked Project (Spring 2020)
 
-*(Updated: 06/14/2022)*
+*(Updated: 06/27/2023)*
