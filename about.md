@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+
 <img src="https://github.com/letsjdosth/letsjdosth.github.io/blob/master/_pic/about_pic2.JPG?raw=true" alt="about_pic" height="500">
 
 
@@ -14,9 +15,9 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
 
 ## Research Interests
 
-- Temporal data analysis
-- Dependent data modeling
-- Bayesian models
+- Bayesian temporal data analysis
+- Bayesian spectral analysis
+- Bayesian nonparametric modeling
 
 ## Education
 
@@ -34,7 +35,7 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
 - Teaching Assistant
   - STAT131 Introduction to Probability Theory (Summer 2022(S2), Winter 2023, Summer 2023(S1,S2))
   - STAT7 Statistical Methods for the Biological, Environmental, and Health Sciences (Fall 2021, Winter 2022, Fall 2022)
-  - STAT5 Statistics (Spring 2023)
+  - STAT5 Statistics (Spring 2023, Fall 2023)
 
 *At Yonsei University,*
 
@@ -43,4 +44,4 @@ at <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>.
   - STA3115 Exploratory Data Analysis (Spring 2019)
   - YCS1005 ICT Industry Linked Project (Spring 2020)
 
-*(Updated: 06/27/2023)*
+*(Updated: 11/01/2023)*
